@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0">
+  <diagram name="Page-1" id="TWtWh_HUrm6LeSAjdgyv">
+    <mxGraphModel dx="1501" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="CLINT 1" link="https://youtu.be/3GIb707Yj8k?si=74W2jMxI0Svk2fHq" id="RxIG0EiR--A6ZeyfLgTD-4">
+          <mxCell style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+            <mxGeometry x="80" y="640" width="110" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="CLINT 2" link="https://youtu.be/3GIb707Yj8k?si=74W2jMxI0Svk2fHq" id="RxIG0EiR--A6ZeyfLgTD-5">
+          <mxCell style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
+            <mxGeometry x="355" y="640" width="110" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="CLINT 3" link="https://youtu.be/3GIb707Yj8k?si=74W2jMxI0Svk2fHq" id="RxIG0EiR--A6ZeyfLgTD-6">
+          <mxCell style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+            <mxGeometry x="660" y="640" width="110" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="RxIG0EiR--A6ZeyfLgTD-13" value="SERVER" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="320" y="100" width="160" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="RxIG0EiR--A6ZeyfLgTD-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=45;exitDy=0;exitPerimeter=0;entryX=0.2;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RxIG0EiR--A6ZeyfLgTD-4" target="RxIG0EiR--A6ZeyfLgTD-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="410" as="sourcePoint" />
+            <mxPoint x="440" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RxIG0EiR--A6ZeyfLgTD-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=45;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RxIG0EiR--A6ZeyfLgTD-5" target="RxIG0EiR--A6ZeyfLgTD-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="556" as="sourcePoint" />
+            <mxPoint x="522" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RxIG0EiR--A6ZeyfLgTD-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.48;exitY=0.009;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.855;entryY=1;entryDx=0;entryDy=-4.35;entryPerimeter=0;" edge="1" parent="1" source="RxIG0EiR--A6ZeyfLgTD-6" target="RxIG0EiR--A6ZeyfLgTD-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="535" as="sourcePoint" />
+            <mxPoint x="480" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
